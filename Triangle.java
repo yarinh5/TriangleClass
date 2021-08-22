@@ -2,7 +2,6 @@
 /**
  *  Triangle.java represents a triangle in the Euclidean space. 
  *
- * @author Yarin Hazan
  * @version 29/3/2021
  */
 public class Triangle
